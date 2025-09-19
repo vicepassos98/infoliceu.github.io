@@ -5,3 +5,5 @@
 [💻 Power BI - Servidores](https://www.google.com/travel/flights?gl=BR&hl=pt-BR)  
 
 [📑 Excel - Drive](https://drive.google.com/drive/folders/1uFQskTJ1PnjReSrmVVTOrk4DuMOZHC-5?usp=drive_link)  
+
+📧Email para contato:[vicepassos98@gmail.com](mailto:vicepassos98@gmail.com)  
